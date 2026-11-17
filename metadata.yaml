@@ -1,0 +1,12 @@
+title: free-web-research-agent
+description: Searches the web for a topic and returns a structured research report — no API keys, no cost
+author: Sajid Khan
+language: python
+framework: none
+tags: [research, web-search, free, no-api-key]
+industry: general
+difficulty: beginner
+llm: none
+entrypoint: agent.py
+requirements: requirements.txt
+origin: Derived from agent 01, Web Research Agent, in ashishpatel26/500-AI-Agents-Projects (MIT)
